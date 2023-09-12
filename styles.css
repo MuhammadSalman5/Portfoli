@@ -1,0 +1,27 @@
+/* Add your CSS styling here */
+body
+{
+    font-style: italic;
+    background-color: #1a1919;
+}
+.projects {
+    background-color: #c20808;
+    border: 1px solid #9c9090;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+}
+
+.bg-light {
+    background-color: #a89393; /* Light blue background color */
+}
+.container {
+    background-color: #ffffff; /* Light gray background color */
+}
+
+h2
+{color: #400e8f; /* Light blue background color */}
+h1
+{color: #0c0714; /* Light blue background color */
+font-style: italic;
+}
